@@ -1,4 +1,4 @@
-### Claire
+### stardust
 
 Quant strategy and **risk gating**. I build systems that decide what *not* to trade.
 
